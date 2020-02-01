@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{19461264-E91C-7A18-C84B-84E247CD3DB8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/Pig.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/MultiTouch.cs" Line="20" Column="14" />
+      <File FileName="Assets/GameAssets/Scripts/PinchZoom.cs" />
+      <File FileName="Assets/GameAssets/Scripts/PlaneControllerGyro.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Projectil.cs" Line="116" Column="33" />
+      <File FileName="Assets/GameAssets/Scripts/GameManager.cs" Line="38" Column="33" />
+      <File FileName="Assets/GameAssets/Scripts/Pig.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 9 Multiplataforma" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Pig.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f318c7ae-beab-4f43-9f99-1cabc7b5b976" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
